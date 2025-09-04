@@ -6,10 +6,11 @@ body
 p
 {
     color:black;
-    font-size:large;
+    font-size:80px;
 }
 
 div
 {
     max-width: 800px;
 }
+
